@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608282113714",
+    "project_id": "crudfirebasepmo",
+    "storage_bucket": "crudfirebasepmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608282113714:android:8c5b6c81ad484ae9e5fbab",
+        "android_client_info": {
+          "package_name": "com.luckyrafi13.crud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608282113714-2r9ggkpplbfsr7s2tngcp20iopmgk591.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE35VfIZ3Ju3_NG7NtLBASP-SA12L72hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608282113714-2r9ggkpplbfsr7s2tngcp20iopmgk591.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
